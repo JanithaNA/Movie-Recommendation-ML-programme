@@ -11,11 +11,13 @@ Accept a movie/user preference as input
 Identify relevant movie categories/features
 Find similar movies
 Recommend suitable movie titles to the user
+
 Technologies
-Python
-Google Colab
-Pandas
-NumPy
-Scikit-learn
-Machine Learning
+
+Python,
+Google Colab,
+Pandas,
+NumPy,
+Scikit-learn,
+Machine Learning,
 Recommendation Systems
